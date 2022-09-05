@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.c" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="3" Column="29"/>
+		</File>
+		<File Name="tadpilhas\pilha.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="5" Column="16"/>
+			<Selection Line="5" Column="6"/>
+		</File>
+		<File Name="tadpilhas\pilha.c" Top="Yes" Tabpos="3" TopLine="22">
+			<Cursor Line="24" Column="13"/>
+		</File>
+	</Files>
+	<Folders>
+		<Folder Name="tadpilhas" Expanded="Yes"/>
+	</Folders>
+</Layout>
